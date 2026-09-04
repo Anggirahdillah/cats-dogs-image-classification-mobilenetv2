@@ -42,8 +42,7 @@ The dataset is not included in this repository because of its large size.
 cats-dogs-image-classification-mobilenetv2/
 ├── README.md
 ├── cats_vs_dogs_mobilenetv2.ipynb
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 ## How to Run
 1. Download the dataset from Kaggle.
